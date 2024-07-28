@@ -149,21 +149,21 @@ export const companies = [
   {
     id: 2,
     name: "appwrite",
-    img: "/sims.jpg",
+    //img: "/sims.jpg",
     nameImg: "/ai.jpg",
     
   },
   {
     id: 3,
     name: "HOSTINGER",
-    img: "/fau.png",
+    //img: "/fau.png",
     nameImg: "/ai.jpg",
     
   },
   {
     id: 4,
     name: "stream",
-    img: "/s.svg",
+    //img: "/s.svg",
     nameImg: "/ai.jpg",
     
   },
