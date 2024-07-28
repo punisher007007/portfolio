@@ -139,27 +139,27 @@ export const testimonials = [
 ];
 
 export const companies = [
-  {
+  /*{
     id: 1,
     name: "Headtstarter AI",
     img: "/ai.jpg",
     nameImg: "/ai.jpg",
     
-  },
-  {
+  },*/
+  /*{
     id: 2,
     name: "appwrite",
     img: "/sims.jpg",
     nameImg: "/ai.jpg",
     
-  },
-  {
+  },*/
+  /*{
     id: 3,
     name: "HOSTINGER",
     img: "/fau.png",
     nameImg: "/ai.jpg",
     
-  },
+  },*/
   /*{
     id: 4,
     name: "stream",
