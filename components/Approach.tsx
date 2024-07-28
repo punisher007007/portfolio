@@ -13,10 +13,10 @@ const Approach = () => {
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
+          title="Planning & Analysis"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
+          des="I will collaborate to map out your goals, target audience, 
+          and key functionalities. I will intially discuss things like site structure, 
           navigation, and content requirements."
         >
           <CanvasRevealEffect
