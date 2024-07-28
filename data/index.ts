@@ -138,7 +138,7 @@ export const testimonials = [
   },*/
 ];
 
-export const companies = [
+/*export const companies = [
   {
     id: 1,
     name: "Headtstarter AI",
@@ -167,13 +167,13 @@ export const companies = [
     nameImg: "/ai.jpg",
     
   },
-  /*{
+  {
     id: 5,
     name: "docker.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
-  },*/
-];
+  },
+];*/
 
 export const workExperience = [
   {
