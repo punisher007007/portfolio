@@ -160,13 +160,13 @@ export const companies = [
     nameImg: "/ai.jpg",
     
   },
-  {
+  /*{
     id: 4,
     name: "stream",
     img: "/s.svg",
     nameImg: "/ai.jpg",
     
-  },
+  },*/
   /*{
     id: 5,
     name: "docker.",
