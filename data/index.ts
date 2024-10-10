@@ -197,7 +197,7 @@ export const workExperience = [
     desc: "@Lince Soft Solutions Private Limited, Hyderabad",
     dates: "Aug 2018 – Jul 2020",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/sims.jpg",
+    thumbnail: "/soft.jpg",
   },
   /*{
     id: 4,
