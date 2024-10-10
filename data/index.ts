@@ -144,7 +144,6 @@ export const companies = [
     name: "Headtstarter AI",
     img: "/ai.jpg",
     nameImg: "/ai.jpg",
-    
   },
   /*{
     id: 2,
@@ -178,25 +177,25 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Engineer Fellowship",
-    desc: "@Headtstarer AI, New York",
-    dates: "May 2024 - Present",
+    title: "Senior Full Stack Developer",
+    desc: "@Cotiviti, South Jordan",
+    dates: "Jun 2023 - Oct 2024",
     className: "md:col-span-2",
     thumbnail: "/ai.jpg",
   },
   {
     id: 2,
-    title: "Software Engineer",
-    desc: "@Smart IMS Inc., Hyderabad",
-    dates: "Oct 2021 – Nov 2022",
+    title: "Full Stack Developer",
+    desc: "@Smart IMS Private Limited, Hyderabad",
+    dates: "Sep 2020 – Nov 2022",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/sims.jpg",
   },
   {
     id: 3,
-    title: "Junior Software Engineer",
-    desc: "@Smart IMS Inc., Hyderabad",
-    dates: "Sep 2020 – Oct 2021",
+    title: "Junior Software Developer",
+    desc: "@Lince Soft Solutions Private Limited, Hyderabad",
+    dates: "Aug 2018 – Jul 2020",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/sims.jpg",
   },
