@@ -57,9 +57,11 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I am a Full Stack Developer with a proven track record of leading
-            the development of 11+ web applications using Java, .NET, MERN,
-            Next.js, and Angular.js
+            I am a Full-stack developer with 5+ years of experience in
+            healthcare, finance, and media. Skilled in building scalable web
+            apps, leading Agile teams, and optimizing systems for performance
+            and security. Proficient in CI/CD, microservices, and JavaScript
+            frameworks.
           </p>
 
           <a href="#about">
