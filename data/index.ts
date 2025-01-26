@@ -177,15 +177,15 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Senior Full Stack Developer",
+    title: "Software Engineer",
     desc: "@Cotiviti, South Jordan",
-    dates: "Jun 2023 - Oct 2024",
+    dates: "Jan 2024 - Present",
     className: "md:col-span-2",
     thumbnail: "/ai.jpg",
   },
   {
     id: 2,
-    title: "Full Stack Developer",
+    title: "Software Engineer",
     desc: "@Smart IMS Private Limited, Hyderabad",
     dates: "Sep 2020 – Nov 2022",
     className: "md:col-span-2", // change to md:col-span-2
@@ -193,9 +193,9 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Junior Software Developer",
-    desc: "@Lince Soft Solutions Private Limited, Hyderabad",
-    dates: "Aug 2018 – Jul 2020",
+    title: "Junior Software Engineer",
+    desc: "@Capgemini, Hyderabad",
+    dates: "Apr 2018 – Jul 2020",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/soft.jpg",
   },
