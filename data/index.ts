@@ -197,7 +197,7 @@ export const workExperience = [
     desc: "@Capgemini, Hyderabad",
     dates: "Apr 2018 – Jul 2020",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/soft.jpg",
+    thumbnail: "/Capgemini-Logo.wine.png",
   },
   /*{
     id: 4,
